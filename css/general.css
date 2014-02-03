@@ -12,14 +12,30 @@
 	box-sizing: border-box;
 }
 
+    font-size: 100%; 
+
+    font-family: Avenir, Century Gothic, sans-serif;
+    font-color: white;
+
+
 .header {
     background-color: white;
     overflow: hidden;
 }
 
 .logo {
-    height: 4.5rem;
+    height:22rem;
     width: auto;
-    margin: .5rem 5%;
+    margin: .25rem 5%;
 }
+
+article {
+    margin: 0;
+    padding: 0 5%;
+    overflow: hidden;
+    background-color: white;
+}
+
+
+
 
